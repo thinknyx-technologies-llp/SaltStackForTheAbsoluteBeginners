@@ -33,3 +33,9 @@ SaltStack for the absolute beginners course introduces to basic fundamentals blo
 - Pillars
 - Masterless Salt
 - Agentless Salt
+
+# Subscribe our Youtube channel for more tutorials at: https://www.youtube.com/@thinknyxtechnologies7446 
+
+# You can visit us for more information at: https://thinknyx.com/
+
+
