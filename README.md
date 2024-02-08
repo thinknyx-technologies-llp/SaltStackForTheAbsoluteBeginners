@@ -17,19 +17,19 @@ SaltStack for the absolute beginners course introduces to basic fundamentals blo
 
 # Course Content
 
-Introduction to SaltStack
-Understanding SaltStack Framework
-Setting up SaltStack Environment
-SaltStack Indepth Architecture
-Modules - The Basic Building Blocks
-Adhoc Tasks
-SaltStack Code Creation Process
-SaltState Tree
-HighState
-SaltStack File Server
-Requisites System (Watch and Require Statements)
-Grains/Custom Grains
-Jinja Templates
-Pillars
-Masterless Salt
-Agentless Salt
+- Introduction to SaltStack
+- Understanding SaltStack Framework
+- Setting up SaltStack Environment
+- SaltStack Indepth Architecture
+- Modules - The Basic Building Blocks
+- Adhoc Tasks
+- SaltStack Code Creation Process
+- SaltState Tree
+- HighState
+- SaltStack File Server
+- Requisites System (Watch and Require Statements)
+- Grains/Custom Grains
+- Jinja Templates
+- Pillars
+- Masterless Salt
+- Agentless Salt
