@@ -14,28 +14,28 @@ Offcial link from Salt "https://docs.saltproject.io/salt/install-guide/en/latest
 
 # This command will accept a specified pending public key against provided Minion
 
-salt-key –a <Minion Name>
+`salt-key –a <Minion Name>`
 
 # This command will accept all pending key requests
 
-salt-key –A
+`salt-key –A`
 
 # This command will delete a specified key against provided Minion
 
-salt-ket –d <Minion Name> 
+`salt-ket –d <Minion Name>`
 
 # This command will delete all pending key requests
 
-salt-key –D
+`salt-key –D`
 
 # This command will reject a specified pending public key against provided Minion
 
-salt-key –r <minon_name>
+`salt-key –r <minon_name>`
 
 # This command will reject all pending key requests
 
-salt-key –R
+`salt-key –R`
 
 # This command will print the specified key’s fingerprint
 
-salt-key –f
+`salt-key –f`
