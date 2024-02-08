@@ -10,7 +10,7 @@ Offcial link from Salt "https://docs.saltproject.io/salt/install-guide/en/latest
 
 # This command list of all public keys
 
-salt-key -L
+`salt-key -L`
 
 # This command will accept a specified pending public key against provided Minion
 
