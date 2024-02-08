@@ -1,4 +1,4 @@
-# SaltStackForTheAbsoluteBeginners-
+# SaltStackForTheAbsoluteBeginners
 SaltStack for the Absolute Beginners - Practical DevOps
 
 # What's in this course?
